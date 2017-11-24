@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">HelloAndroid</string>
+    <string name="udacity">Udacity</string>
+    <string name="local1">2465 Latham St</string>
+    <string name="local2">Mountain View, CA 94043</string>
+    <string name="local2land">, Mountain View, CA 94043</string>
+    <string name="phone">650-555-5555</string>
+    <string name="url1">www.udacity.com</string>
+    <string name="pictureText">Science is fun!</string>
+
+</resources>
